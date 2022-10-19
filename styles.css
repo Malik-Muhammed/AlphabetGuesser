@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono&display=swap');
+*,*::before,*::after{
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+body{
+background-color: #eae6df;
+font-family: "Cutive Mono", sans-serif;
+}
+
+.container{
+max-width: 750px;
+margin: 0 auto;
+
+}
+
+table{
+/* background: #F4F6FB; */
+background-color: #fff;
+/* box-shadow: 0 4px 8px 0 rgba(17,22,26,.16),
+            0 4px 8px 0 rgba(17,22,26,.08),
+            0 8px 16px 0 rgba(17,22,26,.04); */
+box-shadow: 0 17px 50px 0 rgba(11,20,26,.19),
+            0 12px 15px 0 rgba(11,20,26,.24);
+margin: 20px auto 30px;
+border-spacing: 15px;
+text-align: center;
+padding: 8px;
+}
+
+caption{
+font-weight: 800;
+font-size: 1.2rem;
+}
+
+th {
+border: 1px solid black;
+padding: 8px;
+font-size: 1.5rem;
+color:#0a0a0a;
+}
+
+th span{
+display: block;
+}
+
+button{
+width: 50px;
+height: 50px;
+border: none;
+outline: none;
+border-radius: 8px;
+background: #7878bd;
+box-shadow: 0 4px 8px 0 rgba(17,22,26,.16),
+            0 4px 8px 0 rgba(17,22,26,.08),
+            0 8px 16px 0 rgba(17,22,26,.04);
+font-size: 1.3rem;
+}
+
+
+button:active{
+border-radius: 50%;
+
+}
+
+button:hover{
+box-shadow: inset -10px 10px 20px #6a6aa6,
+            inset 10px -10px 20px #8686d4;
+}
+
+
+#newGameBtn{
+width: 120px;
+display: none;
+}
+
+audio{
+display: none;
+}
+
+
