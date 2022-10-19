@@ -125,44 +125,20 @@ function btnOpacity () {
 
 
 
+/***************************************************************
+|======================GRATITUDE===============================|
+|    🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾🙌🏾 🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾 🙏🏾🙏🏾🙏🏾🙏🏾🙏🏾
+****************************************************************/
+/****************************************************************
+All praise to the One who deserves praise whether He is
+being praised or not.
+As Sir Isaac Newton put it, if I have been able to see further it is 
+by standing on the shoulders of giants.
+In that regards,my undiluted gratitude to:
+🟫THE BIGGEST BOSS (MR ABISOYE)
+🟫BOSS TOBI
+🟫GRAND DEV AZ
+🟫GRAND DEV SEUN
+🟫ALFA MUBARAK
+**************************************************************/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// function userGuess(eachBtn) {
- 
-//     eachBtn.addEventListener("click", function(){
-//         if(eachBtn.textContent === randomLetter){
-//             displayScreen.innerHTML=`CORRECT`
-//             winSound()
-
-          
-           
-     
-          
-//         }
-
-//         else{
-//             displayScreen.innerHTML=`WRONG`
-//             errorSound()
-//         }
-//     })
-
-// }
-
-
-// button.forEach(userGuess)
