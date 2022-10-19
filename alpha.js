@@ -40,7 +40,7 @@ function errorSound (){
 
 function gameOverSound (){
     const gameAudio = new Audio ("./Music/gameover.mp3")
-    gameAudio.currentTime = 0.05
+    gameAudio.currentTime =0.15
     gameAudio.play()
 }
 
